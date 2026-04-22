@@ -3,10 +3,11 @@ RENCANA KONTEN WPU
 - ezrascript 
  *ES6
  *Framwork ezrascript
-^ Vue
+  ^ Vue
+  ^ React
 -Struktur Data Dasar
 - PHP Frameworks
-^ Laravel
+ ^ Laravel
 - Interview
 - Vlogs
 - Python
